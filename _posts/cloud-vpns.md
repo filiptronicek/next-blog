@@ -3,8 +3,6 @@ title: 'Getting a public IP, the hard way'
 excerpt: "Sometimes, getting a public IP is expensive, sometimes, it's difficult, let's make it more difficult and less expensive!."
 coverImage: '/assets/blog/public-ip/cover.jpg'
 date: '2021-01-18'
-ogImage:
-  url: '/assets/blog/public-ip/cover.jpg'
 ---
 
 Sometimes, it could be because of multiple reasons, you just want to host your things at home, this could be:

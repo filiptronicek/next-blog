@@ -3,8 +3,6 @@ title: 'My new website'
 excerpt: 'Today I present to you my new website.'
 coverImage: '/assets/blog/hello-website/cover.jpg'
 date: '2019-05-14'
-ogImage:
-  url: '/assets/blog/hello-website/cover.jpg'
 ---
 
 **Hello world**, said God and created [github/personal-website](https://github.dev/)
