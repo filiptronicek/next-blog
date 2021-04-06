@@ -11,7 +11,8 @@ export default function HeroPost({
 }) {
   return (
     <section>
-      <div className="mb-8 md:mb-16">
+      <div className="md:flex">
+      <div className="mb-8 md:mb-16 w-100% lg:w-1/2">
         <CoverImage
           title={title}
           src={coverImage}
@@ -20,7 +21,7 @@ export default function HeroPost({
           width={1240}
         />
       </div>
-      <div className="md:grid md:grid-cols-2 md:gap-x-16 lg:gap-x-8 mb-20 md:mb-28">
+      <div className="md:ml-8 mb-20 md:mb-28">
         <div>
           <h3 className="mb-4 text-4xl lg:text-6xl leading-tight">
             <Link as={`/${slug}`} href="/[slug]">
@@ -34,6 +35,7 @@ export default function HeroPost({
         <div>
           <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
         </div>
+      </div>
       </div>
     </section>
   )
