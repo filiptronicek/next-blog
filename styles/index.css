@@ -13,3 +13,17 @@
 /* Stop purging. */
 
 /* Your own custom utilities */
+@media (prefers-color-scheme: dark) {
+    body {
+        background: #24292e;
+        color: #d6d8da;
+    }
+
+    a {
+        color: #cac7c7 !important;
+    }
+    
+    footer, .bg-accent-1{
+        background: #32383f;
+    }
+}
