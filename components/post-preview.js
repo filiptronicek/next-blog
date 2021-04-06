@@ -10,7 +10,7 @@ export default function PostPreview({
   slug,
 }) {
   return (
-    <div>
+    <div className="shadow-lg p-5 hover:shadow-md duration-200">
       <div className="mb-5">
         <CoverImage
           slug={slug}
