@@ -13,6 +13,10 @@
 /* Stop purging. */
 
 /* Your own custom utilities */
+a {
+    font-weight: bold;
+}
+
 @media (prefers-color-scheme: dark) {
     body {
         background: #24292e;
