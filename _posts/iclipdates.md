@@ -16,7 +16,7 @@ I released [v0.2.2](https://github.com/filiptronicek/iclip-mobile/releases/tag/v
 ## iclip-ext AKA Interclip in the browser
 Use Chrome, Opera, Edge, Brave, Firefox, or any Chromium or Firefox-based browser? Now you can create clips easily with 1 click. I just thought ofo it one day in a Discord call with [@vlada_svoboda](https://twitter.com/vlada_svoboda) and I find it as a big time saver. So go download it! It's [open-source](https://github.com/aperta-principium/iclip-ext) as is the deal with close to everything I do nowadays.
 
-![](https://trnck.dev/0:/uploads/ca962b70-d488-4c9c-ad08-3b1fab8e1354.png)
+![Extension screenshot](/assets/blog/uploads/ca962b70-d488-4c9c-ad08-3b1fab8e1354.png)
 
 Download it on [Chrome](https://chrome.google.com/webstore/detail/interclip-extension/mpgjjbeepoonaaeaodiadghpnaadnngg) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/interclip/). Safari support coming perhaps in the following months.
 
@@ -33,4 +33,4 @@ Also, that ugly [http://uni.hys.cz](http://uni.hys.cz) is now [https://interclip
 Thanks for the two years together, guys <3
 
 
-![](https://trnck.dev/0:/uploads/7187bba4-30d0-4733-b600-94c55f1565b8.png)
+![Initial commit screenshot](/assets/blog/uploads/7187bba4-30d0-4733-b600-94c55f1565b8.png)
