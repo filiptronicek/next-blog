@@ -12,5 +12,6 @@ export default (_req, res) => {
             'excerpt',
         ]);
         res.json({ name: allPosts })
+        res.send()
     }());
 }
