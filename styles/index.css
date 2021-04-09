@@ -14,7 +14,7 @@
 
 /* Your own custom utilities */
 a {
-    font-weight: bold;
+    text-decoration: underline;
 }
 
 @media (prefers-color-scheme: dark) {
