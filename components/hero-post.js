@@ -19,6 +19,7 @@ export default function HeroPost({
           slug={slug}
           height={620}
           width={1240}
+          loading="eager"
         />
       </div>
       <div className="md:ml-8 mb-20 md:mb-28">
