@@ -7,6 +7,7 @@ date: '2021-01-31'
 
 Interclip has been getting a lot of updates recently, most prominently of all (and unbeknown to most) have been the changes on the server-side. I have upgraded the underlying architecture behind Interclip. I now have a much more powerful VM for faster operations and API calls. I have also moved the Database from an external webserver to a local one, nearly 10x its speed.
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Just made the Interclip API 10x faster, just because of a new DB. <a href="https://t.co/xEQBnuiUZu">pic.twitter.com/xEQBnuiUZu</a></p>&mdash; Φlip Tρnicek (@filiptronicek) <a href="https://twitter.com/filiptronicek/status/1354356645522976768?ref_src=twsrc%5Etfw">January 27, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Interclip
 Alongside that, I have coded my first rate-limiter into Interclip ([#53](https://github.com/aperta-principium/Interclip/pull/53)), so that I would prevent some DOS attacks, and I have also coded a piece of code that deletes clips older than a month (any current clips are not affected), both features were shipped in [v3.2.4](https://github.com/aperta-principium/Interclip/releases/tag/v3.2.4). I fixed a ton of bugs and added a lot of more UI changes, all in versions from [v3.2.1](https://github.com/aperta-principium/Interclip/releases/tag/v3.2.1) to [v3.2.5](https://github.com/aperta-principium/Interclip/releases/tag/v3.2.5)
 
