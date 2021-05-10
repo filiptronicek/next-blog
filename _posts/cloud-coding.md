@@ -1,7 +1,7 @@
 ---
 title: 'Coding in the cloud (GitHub Codespaces vs. GitPod)'
 excerpt: "Coding in the cloud is all the rage nowadays after GitHub Codespaces came out, but how do they compare to a service like GitPod?"
-coverImage: '/assets/blog/cloud-ides/cover.png'
+coverImage: '/assets/blog/cloud-ides/cover.jpg'
 date: '2020-07-29'
 ---
 
